@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWJW1&layout=compact)](https://github.com/JWJW1/github-readme-stats)
 -->
 <h3>😎JWJW1😎</h3>
 
@@ -30,6 +31,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 </div>
-<div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWJW1&layout=compact)](https://github.com/JWJW1/github-readme-stats)
-</div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWJW1&layout=compact"/>
