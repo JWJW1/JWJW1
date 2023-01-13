@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWJW1"/>
 <a href="https://github.com/JWJW1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Easy-Hwan&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=nord&hide=Objective%2DC,c,scss,shell,ruby,dart,swift" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWJW1&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=nord&hide=Objective%2DC,c,scss,shell,ruby,dart,swift" />
   </a>
