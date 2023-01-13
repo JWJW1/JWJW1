@@ -32,7 +32,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWJW1"/>
-<a href="https://github.com/JWJW1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWJW1&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=nord&hide=Objective%2DC,c,scss,shell,ruby,dart,swift" />
-  </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWJW1"&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=nord&hide=Objective%2DC,c,scss,shell,ruby,dart,swift" />
